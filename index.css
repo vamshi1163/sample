@@ -1,0 +1,36 @@
+.button_container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 200px;
+    width:200px;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+.heading{
+    text-align: center;
+}
+
+.yellow{
+    background-color: yellow;
+
+}
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.white{
+    background-color: white;
+}
